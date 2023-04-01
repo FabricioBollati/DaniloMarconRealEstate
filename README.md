@@ -3,4 +3,4 @@
 #finishing db products
 #finishing styles on footer
 #finishing styles on /login
-#finishing styles on /admin/product/[id]..
+#finishing styles on /admin/product/[id]...
