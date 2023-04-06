@@ -5,5 +5,3 @@
 #finishing styles on /login
 <<<<<<< HEAD
 #finishing styles on /admin/product/[id]...
-
-> > > > > > > a246b4d578968229ece42be5b1630fb92b2bffee
